@@ -77,7 +77,7 @@ public class Main {
                 }
                 System.out.println("\n按任意键继续...");
                 System.in.read();
-            } else {
+            } else if (operate != 3){
                 System.out.println("请输入1、2或者3");
             }
         }
