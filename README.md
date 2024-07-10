@@ -9,7 +9,7 @@
 #### 使用说明
 
 1.本项目采用jre-17版本JVM运行<br>
-2.安装jre-17后，在cmd中进入jar包目录输入java -jar BlackJack-1.0-SNAPSHOT.jar即可开始游戏
+2.安装jre-17后，在cmd中进入jar包目录输入java -jar vigenere-encipher-1.0-SNAPSHOT.jar即可开始游戏
 
 #### 安装说明
 
